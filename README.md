@@ -9,3 +9,4 @@ srijit198/srijit198 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 [![Subham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Subham-srijit-lenka)](https://github.com/anuraghazra/github-readme-stats)
+![srijit198's GitHub stats](https://github-readme-stats.vercel.app/api?username=srijit198&show_icons=true&theme=radical)
